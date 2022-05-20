@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Biz Mkononi</string>
+    <string name="create">Create Account</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="password">Password</string>
+    <string name="confirm">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="already_have_account">Already have an account?</string>
+    <string name="sign_in"> <u>Sign In</u></string>
+    <string name="resend_sms">Resend Verification SMS?</string>
+    <string name="resend"><u>Resend</u></string>
+    <string name="verify">Verify Phone?</string>
+    <string name="verify_phone"> <u>Verify Phone</u></string>
+    <string name="sign_up"> <u>Sign Up.</u></string>
+    <string name="sign">Sign In</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="forgot_pwd">Forgot Password?</string>
+    <string name="dont_have_account">Dont have an account yet?</string>
+    <string name="botique">Botique Shop</string>
+    <string name="open_nav_drawer">Open Navigation Drawer</string>
+    <string name="close_nav_drawer">Close Navigation Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="insights">Insights</string>
+    <string name="overview">Overview</string>
+    <string name="sales_insights">Sales Insights</string>
+    <string name="customer_insights">Customer Insights</string>
+    <string name="chum_rate_insights">Chum Rate Insights</string>
+    <string name="revenue_insights">Revenue Insights</string>
+    <string name="businesses">Businesses</string>
+    <string name="sales">Sales</string>
+    <string name="supplies">Supplies</string>
+    <string name="finance">Finance</string>
+    <string name="customers">Customers</string>
+    <string name="suppliers">Suppliers</string>
+
+    <string-array name="day_of_the_week">
+        <item>Day of the week</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+
+</resources>

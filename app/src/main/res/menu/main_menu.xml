@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/insights"
+            android:icon="@drawable/ic_baseline_auto_graph_24"
+            android:title="Insights">
+            <menu>
+
+                <item
+                    android:id="@+id/overview"
+                    android:title="Overview" />
+                <item
+                    android:id="@+id/salesInsights"
+                    android:title="Sales Insights" />
+
+                <item
+                    android:id="@+id/customerInsights"
+                    android:title="Customer Insights" />
+                <item
+                    android:id="@+id/chumrate"
+                    android:title="Chum Rate Insights" />
+                <item
+                    android:id="@+id/revenue"
+                    android:title="Revenue Insights" />
+            </menu>
+
+        </item>
+
+
+
+
+        <item
+            android:id="@+id/business"
+            android:iconTint="@color/black"
+            android:icon="@drawable/ic_baseline_business_center_24"
+            android:title="Businesses" >
+
+        </item>
+        <item
+            android:id="@+id/sales"
+            android:iconTint="@color/black"
+            android:icon="@drawable/ic_baseline_shopping_cart_24"
+            android:title="Sales" >
+
+
+        </item>
+        <item
+            android:id="@+id/supplies"
+            android:iconTint="@color/black"
+            android:icon="@drawable/ic_baseline_directions_transit_24"
+            android:title="Supplies">
+
+        </item>
+        <item
+            android:id="@+id/finance"
+            android:iconTint="@color/black"
+            android:icon="@drawable/ic_baseline_attach_money_24"
+            android:title="Finance">
+
+        </item>
+        <item
+            android:id="@+id/customers"
+            android:iconTint="@color/black"
+            android:icon="@drawable/ic_baseline_groups_24"
+            android:title="Customers" >
+
+        </item>
+        <item
+            android:id="@+id/suppliers"
+            android:iconTint="@color/black"
+            android:icon="@drawable/ic_baseline_assist_walker_24"
+            android:title="Suppliers">
+
+        </item>
+    </group>
+
+</menu>
